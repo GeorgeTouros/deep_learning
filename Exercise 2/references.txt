@@ -1,0 +1,10 @@
+https://colab.research.google.com/drive/1FKhOYhOz8d6BKLVVwL1YMlmoFQ2ML1DS#scrollTo=2zBmN8qB3O-e&forceEdit=true&sandboxMode=true
+https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py
+https://github.com/shreyans29/thesemicolon/blob/master/chatbotPreprocessing.py
+https://github.com/shreyans29/thesemicolon/blob/master/chatbotlstmtrain.py
+https://github.com/shreyans29/thesemicolon/blob/master/chat.py
+https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras/blob/master/conversation_discriminator.py
+https://towardsdatascience.com/how-to-implement-seq2seq-lstm-model-in-keras-shortcutnlp-6f355f3e5639
+https://github.com/samurainote/Automatic-Encoder-Decoder_Seq2Seq_Chatbot/blob/master/seq2seq_model.py
+https://medium.com/analytics-vidhya/intuitive-understanding-of-seq2seq-model-attention-mechanism-in-deep-learning-1c1c24aace1e
